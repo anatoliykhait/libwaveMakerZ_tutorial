@@ -13,8 +13,6 @@
 1. [Description](#description)  
 1. [User Guide](#user_guide)
 1. [Dependencies](#dependencies)
-1. [Examples](#examples)
-1. [Planned Work](#planned_work)
 1. [References](#references)
 1. [Comments](#comments)
 ---
@@ -59,25 +57,13 @@ The spectrum of the linear free waves is calculated from the time record of the 
 
 ### Dependencies
 
-| *Dependencies*        | *FeatureType*     | *Location*                 |
-| -------------         |--------------     | -----                      |
-| blockMesh             | utility           | local                      |
-| setFields             | utility           | local                      |
-| interFoam             | solver            | local                      |
-| waveMakerZ            | library           | waveMakerZ_library_OFv1812 |
-| libfftw3.so           | library           | local                      |
-
-<a name="examples"/>
-
-### Examples which use this feature
-
-There are currently no other cases using this tutorial as a basis.
-
-<a name="planned_work"/>
-
-### Planned work
-
-There is currently no planned work for this tutorial.
+| *Dependencies*        | *FeatureType*     |
+| -------------         |--------------     |
+| blockMesh             | utility           |
+| setFields             | utility           |
+| interFoam             | solver            |
+| waveMakerZ            | library           |
+| libfftw3.so           | library           |
 
 <a name="references"/>
 
