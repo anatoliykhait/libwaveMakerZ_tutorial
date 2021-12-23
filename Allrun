@@ -1,0 +1,15 @@
+#!/bin/bash
+
+./Cleanall
+
+cp -r 0.orig 0
+
+blockMesh
+
+setFields
+
+interFoam &> log
+
+gnuplot gnuplot_script.plt
+
+
