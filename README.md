@@ -71,13 +71,3 @@ The spectrum of the linear free waves is calculated from the time record of the 
 
  * A. Khait, L. Shemer, Nonlinear wave generation by a wavemaker in deep to intermediate water depth. Ocean Engineering, 182 (2019), 222-234
  * A. Khait, Third-Order Generation of Narrow-Banded Wave Trains by a Wavemaker. Ocean Engineering, 218 (2020), 108200
-
-----
-<a name="comments"/>
-
-### Comments
-
-| *Date* | *Owner* | *Type* |      *Comment*                            | *Status* |
---- | --- | --- | --- | ---
-
-----
